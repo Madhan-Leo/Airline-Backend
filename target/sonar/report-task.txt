@@ -1,0 +1,6 @@
+projectKey=Airline
+serverUrl=http://localhost:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://localhost:9000/dashboard?id=Airline
+ceTaskId=AY2IiYj-y9gSPLDkXh2-
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY2IiYj-y9gSPLDkXh2-
